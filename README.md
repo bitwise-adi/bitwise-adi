@@ -78,9 +78,8 @@ Fun Facts:
 |---------|-------------|-------|
 | 🎓 **[GradeBuddy](https://github.com/bitwise-adi/GradeBuddy)** | Auto-scrapes my college portal, fetches CIE marks, calculates SGPA & simulates grades. Actually deployed. | Next.js, TypeScript, Puppeteer, Cheerio, Docker |
 | 🛡️ **[NOVA](https://github.com/bitwise-adi/encrypted-chat-app)** | End-to-end encrypted chat app with RSA encryption, multi-client support, real-time messaging. | Python, Socket Programming, RSA, CustomTkinter |
-| 🔍 **[ranDetect](https://github.com/bitwise-adi/ranDetect)** | Network traffic classifier that detects ransomware using ML (Random Forest + XGBoost). Uses 6 GoF design patterns. Clean Architecture. | Python, FastAPI, scikit-learn, XGBoost, Chart.js |
 | 🧱 **[BuildFolio](https://github.com/bitwise-adi/BuildFolio)** | 100% client-side portfolio generator. Fill a form → live preview → export as ZIP. No backend needed. | HTML, CSS, JavaScript |
-| ⛓️ **[TankChain](https://github.com/bitwise-adi/TankChain)** | Blockchain simulation for water tank monitoring. Demonstrates hashing, blocks, tamper detection. | Python |
+| 🔍 **[ranDetect](https://github.com/bitwise-adi/ranDetect)** | Network traffic classifier that detects ransomware using ML (Random Forest + XGBoost). Uses 6 GoF design patterns. Clean Architecture. | Python, FastAPI, scikit-learn, XGBoost, Chart.js |
 
 ---
 
