@@ -5,9 +5,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20I'm%20Aditya%20👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=32" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+things+that+actually+help+people+%F0%9F%9B%A0%EF%B8%8F;ISE+%40+NIE+Mysore+%F0%9F%8E%93;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=125&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+things+that+actually+help+people+%F0%9F%9B%A0%EF%B8%8F;ISE+%40+NIE+Mysore+%F0%9F%8E%93;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" /></a>
+
+
 
 </div>
+
+
 
 ---
 
